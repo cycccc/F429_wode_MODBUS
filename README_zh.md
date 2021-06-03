@@ -6,5 +6,6 @@
 3. 报文解析寄存器没有错误，解析线圈有错误，暂时没有修改
 
 # Key
-    (%d),^|
-  key:38476FDEC5A789DCAA
+    (%X),(US-0x04C11DB7)
+  key:38476FDEC5A789DCAASDWFRZCXB26553479OIHGDSAV
+  
